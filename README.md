@@ -1,4 +1,4 @@
-# Hello I'm Sreevidya
+# Hello I'm Sreevidya!
  <a href="https://www.linkedin.com/in/sreevidya-chiluveru-10b8162ab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
