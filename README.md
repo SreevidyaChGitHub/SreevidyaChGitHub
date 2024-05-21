@@ -3,12 +3,21 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I am a Software Developer having experience in the development of Web-based and Windows-based applications
+I am a Software Engineer having experience in the development of Web-based and Windows-based applications
 using .NET Technologies with SQL Server as a database in the backend.
 
-<h2>👨‍💻 Project Experience:</h2>
+<h2>👨‍💻 Professional Experience:</h2>
 
-- <b>Talousvirta</b>
+- <b>Talousvirta & Resonia applications</b>
+Talousvirta is an invoice service which is an electric service that helps the registered customers in 
+customer creation, product creation, raise invoices and having payment control. It provides the 
+funding service as well if the customer needs one. 
+Resonia is a debt collection service which is an electric service, where you can follow your 
+receivables situation and create new debt collection assignments easily from the application itself.
+User interfaces of both the applications are developed using React which makes calls to the web API 
+services which in turn communicate with the backend for the processing.
+
+
 - <b>Resonia</b>
 - <b>Talousvirta</b>
 - <b>Resonia</b>
