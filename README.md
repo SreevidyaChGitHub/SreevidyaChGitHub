@@ -1,44 +1,39 @@
-# Hello I'm Sreevidya!
+ # Hello I'm Sreevidya!
  <a href="https://www.linkedin.com/in/sreevidya-chiluveru-10b8162ab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I am a Software Engineer having experience in the development of Web-based and Windows-based applications
-using .NET Technologies with SQL Server as a database in the backend.
+Aspiring to restart my career after a career break in the IT industry. I am a Software Engineer having experience in the development of Web-based and Windows-based applications
+using .NET Technologies with SQL Server as a database in the backend. 
 
-<h2>👨‍💻 Professional Experience:</h2>
+<h1>👨‍💻 Professional Projects:</h1>
 
-- <b>Talousvirta & Resonia applications</b>
-Talousvirta is an invoice service which is an electric service that helps the registered customers in 
-customer creation, product creation, raise invoices and having payment control. It provides the 
-funding service as well if the customer needs one. 
-Resonia is a debt collection service which is an electric service, where you can follow your 
-receivables situation and create new debt collection assignments easily from the application itself.
-User interfaces of both the applications are developed using React which makes calls to the web API 
-services which in turn communicate with the backend for the processing.
-
-
-- <b>Resonia</b>
-- <b>Talousvirta</b>
-- <b>Resonia</b>
-
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-
-
+- <b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b><br/>
+      <b>Languages/Technologies:</b> C#, Web APIs, Azure functions<br/>
+      <b> Databases:</b> SQL Server 2022<br/>
+      <b>Tools:</b> MS Visual Studio .Net 2022, GitHub, Postman
+- <b>IPP Online (July 2010 – Oct 2012) </b><br/>
+      <b>Languages/Technologies:</b>  C#, VB.NET, ASP.NET 3.5/2.0, XML, Web Services<br/>
+      <b> Databases:</b> SQL Server 2005, SSIS Packages<br/>
+      <b>Tools:</b> MS Visual Studio .Net 2008, MS VSS (Visual Source Safe)
+- <b>International Facility Link System (Aug 2009 - June 2010) </b><br/>
+      <b>Languages/Technologies:</b>  C#, VB.NET, ASP.NET 3.5/2.0, XML, Web Services<br/>
+      <b> Databases:</b> SQL Server 2005, SSIS Packages<br/>
+      <b>Tools:</b>MS Visual Studio .Net 2005, MS VSS (Visual Source Safe), HP Quality Center
+- <b>Research IQ - Research Library (May 2008 - July 2009)</b><br/>
+<b>Languages/Technologies:</b>  C#, ASP.NET 2.0, XML, Windows Services<br/>
+      <b> Databases:</b> SQL Server 2005<br/>
+      <b>Tools:</b> MS Visual Studio .Net 2005, MS VSS (Visual Source Safe), MS TFS (Team 
+ Foundation Server), HP Quality Center (Bug Analysis and Defect Raising),
+ANTZ Profiler 2.0
+- <b>BW Appraisal Development Tool (Feb 2008 - May 2008)</b><br/>
+<b>Languages/Technologies:</b>  C#, ASP.NET 2.0<br/>
+      <b> Databases:</b> SQL Server 2005<br/>
+      <b>Tools:</b> MS Visual Studio .Net 2005, MS VSS (Visual Source Safe)
+- <b>Diginet (Dotnet Conversion of ‘Digiprise’ product) (June 2006 - Jan 2008)</b><br/>
+<b>Languages/Technologies:</b>  ASP.NET 1.1, VB.NET<br/>
+      <b> Databases:</b> SQL Server 2000<br/>
+      <b>Tools:</b> MS Visual Studio .Net 2003, MS VSS (Visual Source Safe)
 
 
 <!--
