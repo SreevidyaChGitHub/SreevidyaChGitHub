@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-Aspiring to restart my career after a career break in the IT industry. I am a Software Engineer having experience in the development of Web-based and Windows-based applications
+Aspiring to restart my career after a break in the IT industry. I am a Software Engineer having experience in the development of Web-based and Windows-based applications
 using .NET Technologies with SQL Server as a database in the backend. 
 
 <h1>👨‍💻 Professional Projects:</h1>
