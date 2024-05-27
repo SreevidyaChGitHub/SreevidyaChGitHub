@@ -20,7 +20,7 @@ using .NET Technologies with SQL Server as a database in the backend.
       <b>Languages/Technologies:</b>  C#, VB.NET, ASP.NET 3.5/2.0, XML, Web Services<br/>
       <b> Databases:</b> SQL Server 2005, SSIS Packages<br/>
       <b>Tools:</b>MS Visual Studio .Net 2005, MS VSS (Visual Source Safe), HP Quality Center
-- <a href="https://github.com/SreevidyaChGitHub/Diginet"><b>Research IQ - Research Library (May 2008 - July 2009)</b></a><br/>
+- <a href="https://github.com/SreevidyaChGitHub/Research-Library"><b>Research IQ - Research Library (May 2008 - July 2009)</b></a><br/>
 <b>Languages/Technologies:</b>  C#, ASP.NET 2.0, XML, Windows Services<br/>
       <b> Databases:</b> SQL Server 2005<br/>
       <b>Tools:</b> MS Visual Studio .Net 2005, MS VSS (Visual Source Safe), MS TFS (Team 
@@ -30,7 +30,7 @@ ANTZ Profiler 2.0
 <b>Languages/Technologies:</b>  C#, ASP.NET 2.0<br/>
       <b> Databases:</b> SQL Server 2005<br/>
       <b>Tools:</b> MS Visual Studio .Net 2005, MS VSS (Visual Source Safe)
-- <a href="https://github.com/SreevidyaChGitHub/Research-Library"><b>Diginet (Dotnet Conversion of ‘Digiprise’ product) (June 2006 - Jan 2008)</b></a><br/>
+- <a href="https://github.com/SreevidyaChGitHub/Diginet"><b>Diginet (Dotnet Conversion of ‘Digiprise’ product) (June 2006 - Jan 2008)</b></a><br/>
 <b>Languages/Technologies:</b>  ASP.NET 1.1, VB.NET<br/>
       <b> Databases:</b> SQL Server 2000<br/>
       <b>Tools:</b> MS Visual Studio .Net 2003, MS VSS (Visual Source Safe)
