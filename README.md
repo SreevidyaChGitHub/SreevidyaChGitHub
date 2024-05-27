@@ -8,7 +8,7 @@ using .NET Technologies with SQL Server as a database in the backend.
 
 <h1>👨‍💻 Professional Projects:</h1>
 
-- <b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b><br/>
+- <a href="https://github.com/SreevidyaChGitHub/Talousvirta-Resonia"><b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b><br/></a>
       <b>Languages/Technologies:</b> C#, Web APIs, Azure functions<br/>
       <b> Databases:</b> SQL Server 2022<br/>
       <b>Tools:</b> MS Visual Studio .Net 2022, GitHub, Postman
