@@ -11,6 +11,12 @@ I'm a passionate software developer with experience in the development of Web-ba
  <b>Frameworks:</b> React.js, .NET Core, ASP.NET Core </br>
  <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman 
 
+<h1>Personal Projects</h1>
+- <a href="https://github.com/SreevidyaChGitHub/Talousvirta-Resonia"><b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b></a><br/>
+      <b>Languages/Technologies:</b> C#, Web APIs, Azure functions<br/>
+      <b> Databases:</b> SQL Server 2022<br/>
+      <b>Tools:</b> MS Visual Studio .Net 2022, GitHub, Postman
+
 <h1>👨‍💻 Professional Projects:</h1> 
 
 - <a href="https://github.com/SreevidyaChGitHub/Talousvirta-Resonia"><b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b></a><br/>
