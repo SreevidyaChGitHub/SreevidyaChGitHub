@@ -3,10 +3,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-Aspiring to restart my career after a break in the IT industry. I am a Software Engineer having experience in the development of Web-based and Windows-based applications
-using .NET Technologies with SQL Server as a database in the backend. 
+I'm a passionate software developer with experience in the development of Web-based and Windows-based applications using .NET Technologies with SQL Server as a database in the backend. After a career break, I recently upskilled myself in React.js and am eager to re-enter the IT field.
 
-<h1>👨‍💻 Professional Projects:</h1>
+<h1>Skills</h1>
+ <b>Languages/Technologies:</b> JavaScript, C#, Web APIs <br/>
+ <b>Databases:</b> SQL Server <br/>
+ <b>Frameworks:</b> React.js, .NET Core, ASP.NET Core </br>
+ <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman 
+
+<h1>👨‍💻 Professional Projects:</h1> 
 
 - <a href="https://github.com/SreevidyaChGitHub/Talousvirta-Resonia"><b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b></a><br/>
       <b>Languages/Technologies:</b> C#, Web APIs, Azure functions<br/>
