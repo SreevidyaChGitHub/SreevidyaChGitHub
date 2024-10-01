@@ -5,7 +5,7 @@
 
 I'm a passionate Software Developer with experience in the development of Web-based and Windows-based applications using .NET Technologies with SQL Server as a database in the backend. After a career break, I recently upskilled myself in React.js and am eager to re-enter the IT field. I love working on innovative projects and learning new technologies.
 
-<h1>Skills</h1>
+<h1>Technical Skills</h1>
  <b>Languages/Technologies:</b> JavaScript, C#, Web APIs <br/>
  <b>Databases:</b> SQL Server <br/>
  <b>Frameworks:</b> React.js, .NET Core, ASP.NET Core </br>
