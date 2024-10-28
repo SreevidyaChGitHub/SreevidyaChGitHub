@@ -19,7 +19,7 @@ I'm a passionate Software Developer with experience in developing Web-based and 
 
 <h1>👨‍💻 Professional Projects</h1> 
 
-- <a href="https://github.com/SreevidyaChGitHub/Talousvirta-Resonia"><b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b></a><br/>
+- <a href="https://github.com/SreevidyaChGitHub/ProProjects/tree/main/Talousvirta-Resonia"><b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b></a><br/>
       <b>Languages/Technologies:</b> C#, Web APIs, Azure functions<br/>
       <b> Databases:</b> SQL Server 2022<br/>
       <b>Tools:</b> MS Visual Studio .Net 2022, GitHub, Postman
