@@ -12,7 +12,7 @@ I'm a passionate Software Developer with experience in developing Web-based and 
  <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman 
 
 <h1>👨‍💻 Personal Projects</h1>
-<a href="https://github.com/SreevidyaChGitHub/FirebaseBookStore"><b>FirebaseBookStore</b></a><br/>
+<a href="https://github.com/SreevidyaChGitHub/AdminBookHub"><b>AdminBookHub</b></a><br/>
       <b>Languages/Technologies:</b> JavaScript, React.js<br/>
       <b> Databases:</b> Google's Firebase Realtime Database <br/>
       <b>Tools:</b> MS Visual Studio Code, GitHub
