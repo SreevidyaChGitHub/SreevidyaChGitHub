@@ -12,9 +12,13 @@ I'm a passionate Software Developer with experience in developing Web-based and 
  <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman 
 
 <h1>👨‍💻 Personal Projects</h1>
-<a href="https://github.com/SreevidyaChGitHub/AdminBookHub"><b>AdminBookHub</b></a><br/>
-      <b>Languages/Technologies:</b> JavaScript, React.js<br/>
-      <b> Databases:</b> Google's Firebase Realtime Database <br/>
+ 
+- <a href="https://github.com/SreevidyaChGitHub/AdminBookHub"><b>AdminBookHub(Aug 2024 - Sept 2024)</b></a><br/>
+      <b>Languages/Technologies:</b> React.js, JavaScript, HTML, CSS<br/>
+      <b>Databases:</b> Google's Firebase Realtime Database <br/>
+      <b>Tools:</b> MS Visual Studio Code, GitHub
+- <a href="https://github.com/SreevidyaChGitHub/CalcMate"><b>CalcMate(Nov 2024 - Dec 2024)</b></a><br/>
+      <b>Languages/Technologies:</b> React.js, JavaScript, HTML, CSS, Tailwind CSS<br/>
       <b>Tools:</b> MS Visual Studio Code, GitHub
 
 <h1>👨‍💻 Professional Projects</h1> 
