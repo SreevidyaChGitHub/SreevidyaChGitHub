@@ -6,10 +6,10 @@
 I'm a passionate Software Engineer with experience in developing Web-based and Windows-based applications using .NET Technologies with SQL Server as a database in the backend. After a career break, I recently upskilled myself in React.js to stay updated with the current market trends and I am eager to learn new technologies and skills to expand my tech stack. While my expertise lies in software development, I am also open to exploring diverse opportunities within the IT field that allow me to leverage my skills in new and challenging environments. My goal is to become a valuable contributor to any team I join, helping them achieve and surpass their ambitions.
 
 <h1>Technical Skills</h1>
- <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS <br/>
+ <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML <br/>
  <b>Databases:</b> SQL Server <br/>
  <b>Frameworks:</b> React.js, .NET Core, ASP.NET Core </br>
- <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman 
+ <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman, MS Excel, MS Word
 
 <h1>👨‍💻 Personal Projects</h1>
 
