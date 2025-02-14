@@ -15,18 +15,18 @@ I'm a passionate Software Engineer with experience in developing Web-based and W
 
 - <a href="https://github.com/SreevidyaChGitHub/CalcMate"><b>CalcMate (Nov 2024 - Dec 2024)</b></a><br/>
       <b>Languages/Technologies:</b> React.js, JavaScript, HTML, CSS, Tailwind CSS<br/>
-      <b>Tools:</b> MS Visual Studio Code, GitHub
+      <b>Tools:</b> MS Visual Studio Code, Git, GitHub
 - <a href="https://github.com/SreevidyaChGitHub/AdminBookHub"><b>AdminBookHub (Aug 2024 - Sept 2024)</b></a><br/>
       <b>Languages/Technologies:</b> React.js, JavaScript, HTML, CSS<br/>
       <b>Databases:</b> Google's Firebase Realtime Database <br/>
-      <b>Tools:</b> MS Visual Studio Code, GitHub
+      <b>Tools:</b> MS Visual Studio Code, Git, GitHub
 
 <h1>👨‍💻 Professional Projects</h1> 
 
 - <a href="https://github.com/SreevidyaChGitHub/ProProjects/tree/main/Talousvirta-Resonia"><b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b></a><br/>
       <b>Languages/Technologies:</b> C#, Web APIs, Azure functions<br/>
       <b> Databases:</b> SQL Server 2022<br/>
-      <b>Tools:</b> MS Visual Studio .Net 2022, GitHub, Postman
+      <b>Tools:</b> MS Visual Studio .Net 2022, Git, GitHub, Postman
 - <a href="https://github.com/SreevidyaChGitHub/ProProjects/tree/main/IPP-Online"><b>IPP Online (July 2010 – Oct 2012) </b></a><br/>
       <b>Languages/Technologies:</b>  C#, VB.NET, ASP.NET 3.5/2.0, XML, Web Services<br/>
       <b> Databases:</b> SQL Server 2005, SSIS Packages<br/>
