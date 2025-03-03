@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I'm a passionate Software Engineer with experience in developing Web-based and Windows-based applications using .NET Technologies with SQL Server as a database in the backend. After a career break, I recently upskilled myself in React.js to enhance my Front-end skills and am eager to learn new technologies and skills to expand my full-stack development capabilities. My goal is to become a valuable contributor to any team I join, aiding in the achievement of their ambitions while simultaneously fostering my own professional growth.
+I'm a passionate Software Engineer with experience in developing Web-based and Windows-based applications using C#, .NET Technologies with SQL Server as a database in the backend. After a career break, I recently upskilled myself in React.js to enhance my Front-end skills and am eager to learn new technologies and skills to expand my full-stack development capabilities. My goal is to become a valuable contributor to any team I join, aiding in the achievement of their ambitions while simultaneously fostering my own professional growth.
 
 <h1>Technical Skills</h1>
  <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML <br/>
