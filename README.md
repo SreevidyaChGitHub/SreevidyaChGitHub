@@ -1,15 +1,22 @@
- # Hello I'm Sreevidya!
+ # Hello I'm a passionate Software Engineer ! 👋
  <a href="https://www.linkedin.com/in/sreevidya-chiluveru-10b8162ab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I'm a passionate Software Engineer with experience in developing Web-based and Windows-based applications using C#, JavaScript, .NET Technologies with SQL Server as a database in the backend. After a career break, I recently upskilled myself in React.js to enhance my Front-end skills and am eager to learn new technologies and skills to expand my full-stack development capabilities. My goal is to become a valuable contributor to any team I join, aiding in the achievement of their ambitions while simultaneously fostering my own professional growth. 
+I specialize in developing both Web-based and Windows-based applications, using **C#**, **JavaScript**, **.NET technologies** and **SQL Server** as the database backend.
+
+After a career break, I've upskilled myself in **React.js** to enhance my Front-end skills. I'm always eager to learn new technologies and expand my full-stack development capabilities.
 
 <h1>Technical Skills</h1>
  <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML <br/>
  <b>Databases:</b> SQL Server <br/>
  <b>Frameworks:</b> React.js, .NET Core, ASP.NET Core </br>
  <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman, MS Excel, MS Word
+
+### What Drives Me:
+- **Collaboration**: I thrive in team settings, contributing effectively to achieve shared goals.
+- **Continuous Learning**: I'm passionate about exploring new tech and continuously improving my skills.
+- **Problem-Solving**: I enjoy tackling challenges and finding innovative solutions.
 
 <h1>👨‍💻 Personal Projects</h1>
 
@@ -50,6 +57,9 @@ ANTZ Profiler 2.0
       <b> Databases:</b> SQL Server 2000<br/>
       <b>Tools:</b> MS Visual Studio .Net 2003, MS VSS (Visual Source Safe)
 
+Check out my repositories to see some of my work, and feel free to reach out if you'd like to collaborate on a project or just talk code!
+
+Let's create something amazing together.
 
 <!--
 **SreevidyaChGitHub/SreevidyaChGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
