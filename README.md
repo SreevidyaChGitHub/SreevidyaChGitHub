@@ -14,9 +14,9 @@ After a career break, I've upskilled myself in **React.js** to enhance my Front-
  <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman, MS Excel, MS Word
 
 ### What Drives Me:
-- **Collaboration**: I thrive in team settings, contributing effectively to achieve shared goals.
 - **Continuous Learning**: I'm passionate about exploring new tech and continuously improving my skills.
-- **Problem-Solving**: I enjoy tackling challenges and finding innovative solutions.
+- **Problem-Solving**: I am committed to improving my skills by addressing challenges with determination and creativity.
+- **Collaboration**: I thrive in team settings, contributing effectively to achieve shared goals.
 
 <h1>👨‍💻 Personal Projects</h1>
 
