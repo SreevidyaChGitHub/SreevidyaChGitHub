@@ -8,7 +8,7 @@ I specialize in developing both Web-based and Windows-based applications, using 
 After a career break, I've upskilled myself in **React.js** to enhance my Front-end skills. I'm always eager to learn new technologies and expand my full-stack development capabilities.
 
 <h1>Technical Skills</h1>
- <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML <br/>
+ <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML, Python(basic) <br/>
  <b>Databases:</b> SQL Server <br/>
  <b>Frameworks:</b> React.js, .NET Core, ASP.NET Core </br>
  <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman, MS Excel, MS Word
