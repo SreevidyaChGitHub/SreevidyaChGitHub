@@ -5,7 +5,7 @@
 
 I specialize in developing both Web-based and Windows-based applications, using **C#**, **JavaScript**, **.NET technologies** and **SQL Server** as the database backend.
 
-After a career break, I've upskilled in **React.js** to enhance my Front-end skills. I am always eager to learn new technologies and contribute effectively to innovative projects.
+Following a career break, I have upskilled in **React.js** to enhance my Front-end skills as part of expanding my Full-Stack development capabilities. I am always eager to learn new technologies and contribute effectively to innovative and forward-thinking projects.
 
 <h1>Technical Skills</h1>
  <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML, Python(basic) <br/>
@@ -15,9 +15,9 @@ After a career break, I've upskilled in **React.js** to enhance my Front-end ski
 
 ### What Drives Me:
 - **Commitment**: I am committed to make a meaningful contribution to any project I am involved in.
-- **Continuous Learning**: I am passionate about exploring new tech and continuously improving my skills.
-- **Problem-Solving**: I take on challenges with persistence and a strong sense of responsibility, aiming to deliver reliable solutions.
-
+- **Perseverance**: I take on challenges with persistence and a strong sense of responsibility, aiming to deliver reliable solutions.
+- **Continuous Learning**: I am passionate about exploring new tech and continuously enhancing and expanding my skillset.
+  
 <h1>👨‍💻 Personal Projects</h1>
 
 - <a href="https://github.com/SreevidyaChGitHub/CalcMate"><b>CalcMate (Nov 2024 - Dec 2024)</b></a><br/>
