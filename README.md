@@ -14,7 +14,7 @@ After a career break, I've upskilled in **React.js** to enhance my Front-end ski
  <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman, MS Excel, MS Word
 
 ### What Drives Me:
-- **Commitment**: I am committed to make a meaningful contribution to any project I take on.
+- **Commitment**: I am committed to make a meaningful contribution to any project I am involved in.
 - **Continuous Learning**: I am passionate about exploring new tech and continuously improving my skills.
 - **Problem-Solving**: I take on challenges with persistence and a strong sense of responsibility, aiming to deliver reliable solutions.
 
