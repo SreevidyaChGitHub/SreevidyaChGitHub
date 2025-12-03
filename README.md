@@ -5,10 +5,10 @@
 
 I specialize in developing both Web-based applications, using **C#**, **JavaScript**, **.NET technologies** and **SQL Server** as a database in the backend.
 
-Following a career break, I have upskilled in **React.js** to enhance my Front-end skills as part of expanding my Full-Stack development capabilities. Currently, I am learning Python, as it is a versatile language used across many areas in the software development. I am always eager to learn new technologies and contribute effectively to innovative and forward-thinking projects.
+Following a career break, I upskilled in **React.js** to enhance my Front-end skills as part of expanding my Full-Stack development capabilities. Currently, I am learning **Python**, as it is a versatile language used across many areas in the software development. I am always eager to learn new technologies and contribute effectively to innovative and forward-thinking projects.
 
 <h1>Technical Skills</h1>
- <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML, Python(basic) <br/>
+ <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML, Python <br/>
  <b>Databases:</b> SQL Server <br/>
  <b>Frameworks:</b> React.js, .NET Core, ASP.NET Core </br>
  <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman, MS Excel, MS Word
