@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I specialize in developing both Web-based applications, using **C#**, **JavaScript**, **.NET** and **SQL Server** as a database in the backend.
+I specialize in developing Web-based applications, using **C#**, **JavaScript**, **.NET** and **SQL Server** as a database in the backend.
 
 Following a career break, I upskilled in **React.js** to enhance my Front-end skills as part of expanding my Full-Stack development capabilities. Currently, I am learning **Python**, as it is a versatile language used across many areas in the software development. I am always eager to learn new technologies and contribute effectively to innovative and forward-thinking projects.
 
