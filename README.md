@@ -3,9 +3,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I specialize in developing Web-based applications, using **C#**, **JavaScript**, **.NET** and **SQL Server** as a database in the backend.
+I’m a full‑stack developer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js** and **TypeScript** to strengthen my modern front‑end capabilities. I also have a solid background in **JavaScript**, **C#**, the **.NET Framework**, and **SQL Server**, which gives me a strong foundation for full‑stack problem‑solving. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
 
-Following a career break, I upskilled in **React.js** and **TypeScript** to enhance my Front-end skills as part of expanding my Full-Stack development capabilities. Currently, I am learning **Python**, as it is a versatile language used across many areas in the software development. I am always eager to learn new technologies and contribute effectively to innovative and forward-thinking projects.
+I’m currently learning **Python** to broaden my versatility across different areas of software development.
 
 <h1>Technical Skills</h1>
  <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML, Python <br/>
