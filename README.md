@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I’m a full‑stack developer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js** and **TypeScript** to strengthen my modern front‑end capabilities. I also have a solid background in **JavaScript**, **C#**, the **.NET Framework**, and **SQL Server**, which gives me a strong foundation for full‑stack problem‑solving. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
+I’m a full‑stack developer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js** and **TypeScript** to strengthen my modern front‑end capabilities. I also have a solid background in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, which gives me a firm foundation for full‑stack problem‑solving. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
 
 I’m currently learning **Python** to broaden my versatility across different areas of software development.
 
