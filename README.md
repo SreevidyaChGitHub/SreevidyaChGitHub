@@ -5,13 +5,13 @@
 
 I’m a full‑stack developer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js** and **TypeScript** to strengthen my modern front‑end capabilities. I also have a solid background in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, which gives me a firm foundation for full‑stack problem‑solving. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
 
-I’m currently learning **Python** to broaden my versatility across different areas of software development.
+I’m currently learning **Python** and the related frameworks like **FastAPI**, **Flask** and **Django** to broaden my versatility across different areas of software development.
 
 <h1>Technical Skills</h1>
- <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, Web APIs, HTML, CSS, Tailwind CSS, XML, Python <br/>
- <b>Databases:</b> SQL Server <br/>
- <b>Frameworks:</b> React.js, .NET Core, ASP.NET Core </br>
- <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, Postman, MS Excel, MS Word
+ <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, VB.NET, Web APIs, HTML, XML, CSS, Tailwind CSS, Python, AWS fundamentals <br/>
+ <b>Databases:</b> MS SQL Server, MariaDB, PostgreSQL basics <br/>
+ <b>Frameworks:</b> React.js, Flask, FastAPI, Django, .NET Core, .NET Framework </br>
+ <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, GitHub, Postman, MS Excel, MS Word
 
 ### What Drives Me:
 - **Commitment**: I aim to make meaningful contributions to every project I’m part of, ensuring my work supports the team’s success.
