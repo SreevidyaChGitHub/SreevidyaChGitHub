@@ -57,7 +57,7 @@ ANTZ Profiler 2.0
       <b> Databases:</b> SQL Server 2000<br/>
       <b>Tools:</b> MS Visual Studio .Net 2003, MS VSS (Visual Source Safe)
 
-Check out my repositories to see some of my work, and feel free to reach out if you'd like to collaborate on a project or just talk code!
+Check out my repositories to see some of my work, and feel free to reach out if you'd like to collaborate on a project or just talk tech!
 
 Let's create something amazing together.
 
