@@ -3,9 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I’m a full‑stack developer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js** and **TypeScript** to strengthen my modern front‑end capabilities. I also have a solid background in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, which gave me a firm foundation for full‑stack problem‑solving. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
-
-I’m currently learning **Python** and the related frameworks like **FastAPI**, **Flask** and **Django** to broaden my versatility across different areas of software development.
+I’m a full‑stack developer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js**, **TypeScript**, **Python** and the related frameworks like **FastAPI**, **Flask** and **Django** to strengthen my modern full-stack capabilities. I also have a solid background in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, which gave me a firm foundation for full‑stack problem‑solving. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
 
 <h1>Technical Skills</h1>
  <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, VB.NET, Web APIs, HTML, XML, CSS, Tailwind CSS, Python, AWS fundamentals <br/>
