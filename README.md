@@ -9,7 +9,7 @@ I’m a full‑stack developer preparing to restart my career after a break. In 
  <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, VB.NET, Web APIs, HTML, XML, CSS, Tailwind CSS, Python, AWS fundamentals <br/>
  <b>Databases:</b> MS SQL Server, MariaDB, PostgreSQL basics <br/>
  <b>Frameworks:</b> React.js, Flask, FastAPI, Django, .NET Core, .NET Framework </br>
- <b>Tools:</b> MS Visual Studio Code, MS Visual Studio, Git, GitHub, Postman, MS Excel, MS Word
+ <b>Tools:</b> GitHub Copilot (AI-assisted development), MS Visual Studio Code, MS Visual Studio, Git/ GitHub, Postman, MS Word, MS Excel
 
 ### What Drives Me:
 - **Commitment**: I aim to make meaningful contributions to every project I’m part of, ensuring my work supports the team’s success.
