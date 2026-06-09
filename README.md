@@ -15,7 +15,16 @@ I’m a full‑stack developer preparing to restart my career after a break. In 
 - **Commitment**: I aim to make meaningful contributions to every project I’m part of, ensuring my work supports the team’s success.
 - **Perseverance**: I approach challenges with persistence and a strong sense of responsibility, consistently striving to deliver reliable solutions.
 - **Continuous Learning**: I’m passionate about exploring new technologies and actively expanding my skillset to grow professionally and stay adaptable.
-  
+
+<h1>🎓 Academic Projects</h1>
+
+- <a href="https://github.com/rockingede-sketch/gig-work-invoicing"><b>Keikkalaskutus (Mar 2026 - Apr 2026)</b></a><br/>
+      <b>Languages/Technologies:</b> JavaScript, HTML, CSS, Python<br/>
+      <b>Frameworks & Libraries:</b> Django (Templates, Forms, Auth, ORM), Bootstrap<br/>
+      <b>Database:</b> SQLite <br/>
+      <b>Integrations:</b> Brevo <br/>
+      <b>Tools:</b> MS Visual Studio Code, Git, GitHub <br/>
+ 
 <h1>👨‍💻 Personal Projects</h1>
 
 - <a href="https://github.com/SreevidyaChGitHub/CalcMate"><b>CalcMate (Nov 2024 - Dec 2024)</b></a><br/>
@@ -26,7 +35,7 @@ I’m a full‑stack developer preparing to restart my career after a break. In 
       <b>Databases:</b> Google's Firebase Realtime Database <br/>
       <b>Tools:</b> MS Visual Studio Code, Git, GitHub
 
-<h1>👨‍💻 Professional Projects</h1> 
+<h1>🏢 Professional Projects</h1> 
 
 - <a href="https://github.com/SreevidyaChGitHub/ProProjects/tree/main/Talousvirta-Resonia"><b>Talousvirta & Resonia (Oct 2023 - Dec 2023)</b></a><br/>
       <b>Languages/Technologies:</b> C#, Web APIs, Azure functions<br/>
