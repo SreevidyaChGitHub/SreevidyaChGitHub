@@ -16,14 +16,14 @@ I’m a full‑stack developer preparing to restart my career after a break. In 
 - **Perseverance**: I approach challenges with persistence and a strong sense of responsibility, consistently striving to deliver reliable solutions.
 - **Continuous Learning**: I’m passionate about exploring new technologies and actively expanding my skillset to grow professionally and stay adaptable.
 
-<h1>🎓 Academic Projects</h1>
+<h1>🎓 Training Project at Taitotalo </h1>
 
 - <a href="https://github.com/rockingede-sketch/gig-work-invoicing"><b>Keikkalaskutus (Mar 2026 - Apr 2026)</b></a><br/>
       <b>Languages/Technologies:</b> JavaScript, HTML, CSS, Python<br/>
       <b>Frameworks & Libraries:</b> Django (Templates, Forms, Auth, ORM), Bootstrap<br/>
       <b>Database:</b> SQLite <br/>
       <b>Integrations:</b> Brevo <br/>
-      <b>Tools:</b> MS Visual Studio Code, Git, GitHub <br/>
+      <b>Tools:</b> Jira, MS Visual Studio Code, Git, GitHub <br/>
  
 <h1>👨‍💻 Personal Projects</h1>
 
