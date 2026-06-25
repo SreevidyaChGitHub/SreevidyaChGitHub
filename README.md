@@ -9,7 +9,7 @@ I’m a full‑stack developer preparing to restart my career after a break. In 
  <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, VB.NET, HTML, CSS, Tailwind CSS, XML, Python, REST APIs <br/>
  <b>Databases:</b> MS SQL Server, MariaDB, PostgreSQL <br/>
  <b>Frameworks:</b> React.js, Flask, FastAPI, Django, .NET Core, .NET Framework </br>
- <b>Tools:</b> GitHub Copilot, VS Code, Visual Studio, Git/ GitHub, Postman, Node.js, NPM
+ <b>Tools:</b> GitHub Copilot, VS Code, Visual Studio, Git/ GitHub, Postman, Node.js, NPM </br>
  <b>Operating Systems:</b> MS Windows
 
 ### What Drives Me:
