@@ -6,7 +6,7 @@
 I’m a full‑stack developer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js**, **TypeScript**, **Python** and the related frameworks like **FastAPI**, **Flask** and **Django** to strengthen my modern full-stack capabilities. I also have a solid background in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, which gave me a firm foundation for full‑stack problem‑solving. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
 
 <h1>Technical Skills</h1>
- <b>Languages/Technologies:</b> JavaScript, TypeScript, C#, VB.NET, HTML, CSS, Tailwind CSS, XML, Python, REST APIs <br/>
+ <b>Languages & Technologies:</b> JavaScript, TypeScript, C#, VB.NET, HTML, CSS, Tailwind CSS, XML, Python, REST APIs <br/>
  <b>Databases:</b> MS SQL Server, MariaDB, PostgreSQL <br/>
  <b>Frameworks:</b> React.js, Flask, FastAPI, Django, .NET Core, .NET Framework </br>
  <b>Tools:</b> GitHub Copilot, VS Code, Visual Studio, Git/ GitHub, Postman, Node.js, NPM </br>
@@ -20,21 +20,22 @@ I’m a full‑stack developer preparing to restart my career after a break. In 
 <h1>🎓 Training Project at Taitotalo </h1>
 
 - <a href="https://github.com/rockingede-sketch/gig-work-invoicing"><b>Keikkalaskutus (Mar 2026 - Apr 2026)</b></a><br/>
-      <b>Languages/Technologies:</b> JavaScript, HTML, CSS, Python<br/>
-      <b>Frameworks & Libraries:</b> Django (Templates, Forms, Auth, ORM), Bootstrap<br/>
+      <b>Backend & Frontend:</b> Django (Templates, Forms, Auth, ORM), Python<br/>
+      <b>UI/Styles:</b> Bootstrap, JavaScript, HTML, CSS<br/>
       <b>Database:</b> SQLite <br/>
-      <b>Integrations:</b> Brevo <br/>
-      <b>Tools:</b> Jira, MS Visual Studio Code, Git, GitHub <br/>
+      <b>Thid-Party Integrations:</b> Brevo (Email Activation) <br/>
+      <b>Tools:</b> Jira, VSCode, Git, GitHub <br/>
  
 <h1>👨‍💻 Personal Projects</h1>
 
 - <a href="https://github.com/SreevidyaChGitHub/CalcMate"><b>CalcMate (Nov 2024 - Dec 2024)</b></a><br/>
-      <b>Languages/Technologies:</b> React.js, JavaScript, HTML, CSS, Tailwind CSS<br/>
-      <b>Tools:</b> MS Visual Studio Code, Git, GitHub
+      <b>Frontend:</b> React.js, JavaScript, HTML, CSS, Tailwind CSS<br/>
+      <b>Tools:</b> VS Code, Git, GitHub<br/>
+      <b>API Integrations:</b> Frankfurter API (REST/JSON)
 - <a href="https://github.com/SreevidyaChGitHub/AdminBookHub"><b>AdminBookHub (Aug 2024 - Sept 2024)</b></a><br/>
-      <b>Languages/Technologies:</b> React.js, JavaScript, HTML, CSS<br/>
+      <b>Frontend:</b> React.js, JavaScript, HTML, CSS<br/>
       <b>Databases:</b> Google's Firebase Realtime Database <br/>
-      <b>Tools:</b> MS Visual Studio Code, Git, GitHub
+      <b>Tools:</b> VS Code, Git, GitHub
 
 <h1>🏢 Professional Projects</h1> 
 
