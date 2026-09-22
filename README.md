@@ -1,9 +1,9 @@
- # Hello I'm a passionate Software Engineer ! 👋
+ # Hello I'm a Full-stack engineer crafting scalable web applications from frontend to backend ! 👋
  <a href="https://www.linkedin.com/in/sreevidya-chiluveru-10b8162ab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I’m a full‑stack developer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js**, **TypeScript**, **Python** and the related frameworks like **Django**, **FastAPI**, **Flask** to strengthen my modern full-stack capabilities. I also have a solid background in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, which gave me a firm foundation for full‑stack problem‑solving. I am currently building my cloud fundamentals through the AWS Cloud Practitioner Essentials course. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
+I’m a Software Engineer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js**, **TypeScript**, **Python** and the related frameworks like **Django**, **FastAPI**, **Flask** to strengthen my modern full-stack capabilities. I also have a solid background in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, which gave me a firm foundation for full‑stack problem‑solving. I am currently building my cloud fundamentals through the AWS Cloud Practitioner Essentials course. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
 
 <h1>Technical Skills</h1>
  <b>Languages & Technologies:</b> JavaScript, TypeScript, C#, VB.NET, HTML, CSS, Tailwind CSS, XML, Python, REST APIs <br/>
