@@ -10,7 +10,7 @@ I’m a full‑stack developer preparing to restart my career after a break. In 
  <b>Databases:</b> MS SQL Server, MariaDB, PostgreSQL <br/>
  <b>Frameworks:</b> React.js, Flask, FastAPI, Django, .NET Core, .NET Framework </br>
  <b>Tools:</b> GitHub Copilot, VS Code, Visual Studio, Git/ GitHub, Postman, Node.js, NPM </br>
- <b>Operating Systems:</b> MS Windows
+ <b>Cloud Technologies:</b> AWS Fundamentals
 
 ### What Drives Me:
 - **Commitment**: I aim to make meaningful contributions to every project I’m part of, ensuring my work supports the team’s success.
