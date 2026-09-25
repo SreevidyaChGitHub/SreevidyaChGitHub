@@ -24,7 +24,7 @@ I’m a software developer preparing to restart my career after a break. In the 
       <b>UI/Styles:</b> Bootstrap, JavaScript, HTML, CSS<br/>
       <b>Database:</b> SQLite <br/>
       <b>Thid-Party Integrations:</b> Brevo (Email Activation) <br/>
-      <b>Tools:</b> Jira, VSCode, Git, GitHub <br/>
+      <b>Tools:</b> Jira, VSCode, Git, GitHub, GitHub Copilot (AI‑assisted development) <br/>
  
 <h1>👨‍💻 Personal Projects</h1>
 
