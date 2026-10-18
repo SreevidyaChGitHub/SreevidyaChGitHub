@@ -11,7 +11,7 @@ Currently building my Cloud fundamentals through the AWS Cloud Practitioner Esse
  <b>Languages & Technologies:</b> JavaScript, TypeScript, C#, VB.NET, HTML, CSS, Tailwind CSS, XML, Python, REST APIs <br/>
  <b>Databases:</b> MS SQL Server, MariaDB, PostgreSQL <br/>
  <b>Frameworks:</b> React.js, Flask, FastAPI, Django, .NET Core, .NET Framework </br>
- <b>Tools:</b> GitHub Copilot, VS Code, Visual Studio, Git/ GitHub, Postman, Node.js, NPM </br>
+ <b>Tools:</b> GitHub Copilot, VS Code, Visual Studio, Git/ GitHub, Postman </br>
  <b>Cloud Technologies:</b> AWS Fundamentals
 
 ### What Drives Me:
