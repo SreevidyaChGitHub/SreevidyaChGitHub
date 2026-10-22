@@ -3,14 +3,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I’m a software developer preparing to restart my career after a break. In the past couple of years, I’ve upskilled in **React.js**, **TypeScript**, **Python** and **Django** to strengthen my modern full-stack capabilities. I also have a solid background in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, which gave me a firm foundation for full‑stack problem‑solving. 
+Software developer re-establishing a career in full-stack development through continuous learning and hands-on projects. Experienced in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, with a current focus on modern .NET development using **ASP.NET Core**, alongside **React**, **TypeScript**, and **PostgreSQL**. 
 
-Currently building my Cloud fundamentals through the AWS Cloud Practitioner Essentials course as part of my journey toward cloud‑ready development. I’m passionate about continuous learning and contributing to innovative, forward‑thinking projects.
+I also have experience developing applications with **Python** and **Django** and remain open to opportunities across modern web development. Passionate about building reliable, user-focused web applications and continuously improving software engineering skills.
 
 <h1>Technical Skills</h1>
- <b>Languages & Technologies:</b> JavaScript, TypeScript, C#, VB.NET, HTML, CSS, Tailwind CSS, XML, Python, REST APIs <br/>
- <b>Databases:</b> MS SQL Server, MariaDB, PostgreSQL <br/>
- <b>Frameworks:</b> React.js, Flask, FastAPI, Django, .NET Core, .NET Framework </br>
+ <b>Languages & Technologies:</b> C#, JavaScript, TypeScript, Python, HTML, CSS, Tailwind CSS, REST APIs, XML <br/>
+ <b>Databases:</b> SQL Server, PostgreSQL, SQLite <br/>
+ <b>Frameworks:</b> ASP.NET Core, React, .NET Framework, Django </br>
  <b>Tools:</b> GitHub Copilot, VS Code, Visual Studio, Git/ GitHub, Postman </br>
  <b>Cloud Technologies:</b> AWS Fundamentals
 
