@@ -3,10 +3,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-Software developer re-establishing a career in full-stack development through continuous learning and hands-on projects. Experienced in **JavaScript**, **C#**, **.NET Framework**, and **SQL Server**, with a current focus on modern .NET development using **ASP.NET Core**, alongside **React**, **TypeScript**, and **PostgreSQL**. 
+Software developer re-establishing a career in full-stack development through continuous learning and hands-on projects. Experienced across both the Microsoft and Python ecosystems, including **C#**, **ASP.NET Core**, **SQL Server**, **React**, **TypeScript**, **PostgreSQL**, **Python**, and **Django**. 
 
-I also have experience developing applications with **Python** and **Django** and remain open to opportunities across modern web development. Passionate about building reliable, user-focused web applications and continuously improving software engineering skills.
-
+Passionate about creating reliable, user-focused software and continuously expanding technical expertise across modern web development.
+ 
 <h1>Technical Skills</h1>
  <b>Languages & Technologies:</b> C#, JavaScript, TypeScript, Python, HTML, CSS, Tailwind CSS, REST APIs, XML <br/>
  <b>Databases:</b> SQL Server, PostgreSQL, SQLite <br/>
