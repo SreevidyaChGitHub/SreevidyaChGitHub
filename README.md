@@ -13,7 +13,7 @@ Passionate about creating reliable, user-focused software and continuously expan
  <b>Frontend:</b> React.js, HTML5, CSS3, Tailwind CSS <br/> 
  <b>Backend & APIs:</b> ASP.NET Core, .NET Framework, Django, REST APIs <br/>
  <b>Databases:</b> SQL Server, PostgreSQL, SQLite <br/>
- <b>Tools:</b> Git, GitHub, VS Code, Visual Studio, Postman </br>
+ <b>Tools:</b> Jira, Git, GitHub, VS Code, Visual Studio, Postman </br>
  <b>Cloud Technologies:</b> AWS Fundamentals </br>
  <b>AI-assisted development:</b> GitHub Copilot
 
