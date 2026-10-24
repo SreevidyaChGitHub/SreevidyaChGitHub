@@ -8,11 +8,14 @@ Software developer re-establishing a career in full-stack development through co
 Passionate about creating reliable, user-focused software and continuously expanding technical expertise across modern web development.
  
 <h1>Technical Skills</h1>
- <b>Languages & Technologies:</b> C#, JavaScript, TypeScript, Python, HTML, CSS, Tailwind CSS, REST APIs, XML <br/>
+
+ <b>Languages:</b> JavaScript, TypeScript, C#, Python, VB.NET, SQL <br/>
+ <b>Frontend:</b> React.js, HTML5, CSS3, Tailwind CSS <br/> 
+ <b>Backend & APIs:</b> ASP.NET Core, .NET Framework, Django, REST APIs <br/>
  <b>Databases:</b> SQL Server, PostgreSQL, SQLite <br/>
- <b>Frameworks:</b> ASP.NET Core, React, .NET Framework, Django </br>
- <b>Tools:</b> GitHub Copilot, VS Code, Visual Studio, Git/ GitHub, Postman </br>
- <b>Cloud Technologies:</b> AWS Fundamentals
+ <b>Tools:</b> Git, GitHub, VS Code, Visual Studio, Postman </br>
+ <b>Cloud Technologies:</b> AWS Fundamentals </br>
+ <b>AI-assisted development:</b> GitHub Copilot
 
 ### What Drives Me:
 - **Commitment**: I aim to make meaningful contributions to every project I’m part of, ensuring my work supports the team’s success.
