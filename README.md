@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-Software developer re-establishing a career in full-stack development through continuous learning and hands-on projects. Experienced across both the Microsoft and Python ecosystems, including **C#**, **ASP.NET Core**, **SQL Server**, **React**, **TypeScript**, **PostgreSQL**, **Python**, and **Django**. 
+Software developer re-establishing a career in full-stack development through continuous learning and hands-on projects. Experienced across both the Microsoft and Python ecosystems, including **C#**, **ASP.NET Core**, **SQL Server**, **React**, **TypeScript**, **PostgreSQL**, **Python**, and **Django**. Enthusiastic about AI-assisted development, with hands-on experience using **GitHub Copilot** to streamline coding and UI development tasks.
 
 Passionate about creating reliable, user-focused software and continuously expanding technical expertise across modern web development.
  
